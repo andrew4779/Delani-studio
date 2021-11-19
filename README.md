@@ -9,7 +9,7 @@ This is a simple webpage site built with jquery,bootstrap...
 ## Live link
 https://andrew4779.github.io/week-three-project/
 ## Known Bugs
-The navigation bar isn't functioning as expectedS
+The navigation bar isn't functioning as expected
 ## Technologies Used
 This project has been written in HTML,CSS and JAVASCRIPT.
 ## Support and contact details
