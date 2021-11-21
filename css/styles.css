@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Copse|Delius+Swash+Caps|Gabriela|Unkempt&display=swap");
+@import url('https://fonts.google.com/specimen/Faster+One');
 html {
   scroll-behavior: smooth;
 }
@@ -7,7 +7,7 @@ html {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: black;
+  color:white;
   text-align: center;
   padding-top: 17%;
   font-family: "Gabriela", serif;
@@ -61,25 +61,16 @@ html {
 #about {
   font-family: "Gabriela", serif;
 }
-.services {
-  text-align: center;
-  background-image: url("../images/s_image.jpg");
-  color:white;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  font-family: "Copse", serif;
-  font-size: 18px;
-}
-.services h2 {
-  font-family: "Gabriela", serif;
-}
+
 #servicesoverlay {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color:white;
   padding-top: 10%;
   padding-bottom: 10%;
+  background-image: url("../images/s_image.jpg");
+  text-align: center;
+  color: white;
 }
-.whatwedocontainer {
+.whatwedosection {
   font-family: "Quattrocento", serif;
   text-align: center;
   padding-top: 40px;
@@ -109,7 +100,7 @@ html {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: white;
+  color:white;
   /* text-align: center; */
 }
 .title {
